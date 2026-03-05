@@ -8,7 +8,7 @@ public class Calender_2026_Calculator
         while(true)
             {
                 System.out.println("Hello");
-                System.out.println("Welcome to 2026 Calander");
+                System.out.println("Welcome to 2026 Calendar");
                 System.out.println();
                 System.out.println("Enter month (1-12)");
                 int month=read.nextInt();
@@ -948,3 +948,4 @@ public class Calender_2026_Calculator
         }
     }
 }
+
